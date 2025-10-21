@@ -1,0 +1,28 @@
+{
+  "name": "node_mysql_1",
+  "version": "1.0.0",
+  "description": "Prueba MySQL ",
+  "keywords": [
+    "MySQL2",
+    "NODE"
+  ],
+  "homepage": "https://github.com/classesdeferran/node_mysql_2025b#readme",
+  "bugs": {
+    "url": "https://github.com/classesdeferran/node_mysql_2025b/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classesdeferran/node_mysql_2025b.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node --watch src/js"
+  },
+  "dependencies": {
+    "mysql2": "3.15.2"
+  },
+  "devDependencies": {}
+}
